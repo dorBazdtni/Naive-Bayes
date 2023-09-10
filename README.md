@@ -1,5 +1,4 @@
 # Gaussian Naive Bayes Implementation in Python
-Python Implementation: We will walk you through the step-by-step implementation of the Gaussian Naive Bayes algorithm using Python. You'll learn how to preprocess data, calculate class priors, mean, and standard deviation for each feature, and make predictions using GNB.
 
 
 ## <u>Introduction </u>
