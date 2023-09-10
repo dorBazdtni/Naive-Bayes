@@ -1,6 +1,5 @@
 # Gaussian Naive Bayes Implementation in Python
 
-
 ## <u>Introduction </u>
 
 Welcome to the README for the "Gaussian Naive Bayes Implementation in Python" project. This project aims to provide a comprehensive overview of how to implement the Gaussian Naive Bayes (GNB) algorithm in Python for classification tasks. Gaussian Naive Bayes is a probabilistic machine learning algorithm commonly used for classification tasks, especially when dealing with continuous data.
